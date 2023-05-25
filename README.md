@@ -30,19 +30,22 @@ Copyrighted material such as song, artist, or album names will not be used in th
 The analysis includes various aspects such as:
 
 - Percentage of explicit songs over the years: 
-    ![Percentage of explicit songs](images/explicit_songs.png)
+    ![Percentage of explicit songs](findings/explicit.png)
 - Loudness of music over the years: 
-    ![Loudness of music](images/loudness.png)
+    ![Loudness of music](findings/loudness.png)
 - Average Tempo of music over the years: 
-    ![Average Tempo](images/tempo.png)
+    ![Average Tempo](findings/tempo.png)
 - Average Valence over the years in music: 
-    ![Average Valence](images/valence.png)
+    ![Average Valence](findings/valence.png)
 - Song duration throughout the years in music: 
-    ![Song Duration](images/duration.png)
+    ![Song Duration](findings/duration.png)
 - Average song 'speechiness' through the years of music:
-    ![Speechiness](images/speechiness.png)
+    ![Speechiness](findings/speech.png)
+- Tempo vs Loudness in music over the years: 
+    ![Tempo vs Loudness](findings/tempoVsLoudness.png)
 
 ### Conclusion
 
 By analysing the data of the given Spotify song audio properties, we were able to see very interesting trends in music evolution from 1999 to 2019. Popular songs are becoming more explicit; possibly becoming less happy; seem to be increasing in tempo and are also clearly becoming shorter. Improvements could include incorporating more precise data and exploring additional factors such as the demographics of the listeners.
+
 
